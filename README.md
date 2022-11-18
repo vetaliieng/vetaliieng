@@ -11,4 +11,4 @@
 - :zap: Quickly build MVPs of web and mobile applications with React & React Native stack
 - :100: Writing well-structured code using best practice
 - :book: Knowledgeable in UI, testing, and debugging processes 
-- :watch Have strong skills in personal time management and always try to be focused on my results
+- :watch: Have strong skills in personal time management and always try to be focused on my results
